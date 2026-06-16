@@ -2,11 +2,7 @@
 <h3 align="center">🚀 Aspiring Software Developer | 💻 Computer Science Student</h3>
 
 <p align="center">
-  <img src="https://demolab.com" alt="Gaurav Deore's Tech Interests" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com" alt="Profile Views Tracker" />
+  <img src="https://demolab.com" alt="Gaurav Deore's Focus Fields" />
 </p>
 
 ---
@@ -25,26 +21,33 @@ I am a passionate **B.Sc Computer Science student** at Savitribai Phule Pune Uni
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev" alt="My Tech Stack Overview" />
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="Python" />
+    <img src="https://shields.io" alt="C" />
+    <img src="https://shields.io" alt="Git" />
+    <img src="https://shields.io" alt="GitHub" />
+    <img src="https://shields.io" alt="Linux" />
+    <img src="https://shields.io" alt="MySQL" />
+  </a>
 </p>
 
 ---
 
 ### 📂 Featured Projects
 
-| Project Name | Description | Tech Stack | Link |
+| Project Name | Description | Core Ecosystem | Source |
 | :--- | :--- | :--- | :--- |
-| **🚀 Text Summarization Tool** | Automated long text condensation tool using advanced NLP models. | Python, NLP, HuggingFace | [View Code](https://github.com) |
-| **📊 Airline Review Analysis** | Web scraping pipeline matched with sentiment analysis models. | Python, BeautifulSoup, NLTK | [View Code](https://github.com) |
-| **📚 DSA Practice Repository** | Optimized solutions to complex algorithmic problems. | Python, C, Data Structures | [View Code](https://github.com) |
+| **🚀 Text Summarization Tool** | Automated long text condensation tool using advanced NLP models. | Python, NLP, HuggingFace | [Code Repository](https://github.com) |
+| **📊 Airline Review Analysis** | Web scraping pipeline matched with sentiment analysis models. | Python, BeautifulSoup, NLTK | [Code Repository](https://github.com) |
+| **📚 DSA Practice Repository** | Optimized solutions to complex algorithmic problems. | Python, C, Data Structures | [Code Repository](https://github.com) |
 
 ---
 
-### 📈 Profile Metric Summaries
+### 📊 Professional Metrics Summary
 
-* 💻 **Primary Ecosystem:** Python, C, Data Structures & Algorithms
-* ⚡ **Contribution Rhythm:** Everyday Development Cycle
-* 🔧 **Workspace Configurations:** VS Code running on Linux kernels
+* 💻 **Primary Target Frameworks:** Systems Programming, Web Data Extraction
+* ⚡ **Development Track:** Advanced Algorithmic Problem Solving (DSA)
+* 🔧 **Development Environment:** Integrated Version Control via Git & GitHub Desktop
 
 ---
 
@@ -58,7 +61,7 @@ I am a passionate **B.Sc Computer Science student** at Savitribai Phule Pune Uni
     <img src="https://shields.io" alt="Send Email" />
   </a>
   <a href="https://github.com">
-    <img src="https://shields.io" alt="GitHub Profile Link" />
+    <img src="https://shields.io" alt="GitHub Profile" />
   </a>
 </p>
 
