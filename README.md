@@ -32,32 +32,19 @@ I am a passionate **B.Sc Computer Science student** at Savitribai Phule Pune Uni
 
 ### 📂 Featured Projects
 
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🚀 Text Summarization Tool** | Automated long text condensation tool using advanced NLP models. | Python, NLP, HuggingFace |
-| **📊 Airline Review Analysis** | Web scraping pipeline matched with sentiment analysis models. | Python, BeautifulSoup, NLTK |
-| **📚 DSA Practice Repository** | Optimized solutions to complex algorithmic problems. | Python, C, Data Structures |
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **🚀 Text Summarization Tool** | Automated long text condensation tool using advanced NLP models. | Python, NLP, HuggingFace | [View Code](https://github.com) |
+| **📊 Airline Review Analysis** | Web scraping pipeline matched with sentiment analysis models. | Python, BeautifulSoup, NLTK | [View Code](https://github.com) |
+| **📚 DSA Practice Repository** | Optimized solutions to complex algorithmic problems. | Python, C, Data Structures | [View Code](https://github.com) |
 
 ---
 
-### 📊 GitHub Analytics
+### 📈 Profile Metric Summaries
 
-<p align="center">
-  <img src="https://vercel.app" height="180" alt="Gaurav's GitHub Stats" />
-  <img src="https://vercel.app" height="180" alt="Gaurav's Commit Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" height="160" alt="Top Coding Languages Used" />
-</p>
-
----
-
-### 🏆 Badges & Achievements
-
-<p align="center">
-  <img src="https://vercel.app" alt="Earned Profile Trophies" />
-</p>
+* 💻 **Primary Ecosystem:** Python, C, Data Structures & Algorithms
+* ⚡ **Contribution Rhythm:** Everyday Development Cycle
+* 🔧 **Workspace Configurations:** VS Code running on Linux kernels
 
 ---
 
