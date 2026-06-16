@@ -44,7 +44,7 @@ I am a passionate **B.Sc Computer Science student** at Savitribai Phule Pune Uni
 
 <p align="center">
   <img src="https://vercel.app" height="180" alt="Gaurav's GitHub Stats" />
-  <img src="https://herokuapp.com" height="180" alt="Gaurav's Commit Streak Stats" />
+  <img src="https://vercel.app" height="180" alt="Gaurav's Commit Streak Stats" />
 </p>
 
 <p align="center">
