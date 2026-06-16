@@ -2,11 +2,11 @@
 <h3 align="center">🚀 Aspiring Software Developer | 💻 Computer Science Student</h3>
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="Typing SVG" />
+  <img src="https://demolab.com" alt="Gaurav Deore's Tech Interests" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
+  <img src="https://komarev.com" alt="Profile Views Tracker" />
 </p>
 
 ---
@@ -25,7 +25,7 @@ I am a passionate **B.Sc Computer Science student** at Savitribai Phule Pune Uni
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev" alt="My Tech Stack" />
+  <img src="https://skillicons.dev" alt="My Tech Stack Overview" />
 </p>
 
 ---
@@ -43,12 +43,12 @@ I am a passionate **B.Sc Computer Science student** at Savitribai Phule Pune Uni
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://vercel.app" height="180" alt="GitHub Stats" />
-  <img src="https://herokuapp.com" height="180" alt="Streak Stats" />
+  <img src="https://vercel.app" height="180" alt="Gaurav's GitHub Stats" />
+  <img src="https://herokuapp.com" height="180" alt="Gaurav's Commit Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" height="160" alt="Top Languages" />
+  <img src="https://vercel.app" height="160" alt="Top Coding Languages Used" />
 </p>
 
 ---
@@ -56,15 +56,7 @@ I am a passionate **B.Sc Computer Science student** at Savitribai Phule Pune Uni
 ### 🏆 Badges & Achievements
 
 <p align="center">
-  <img src="https://vercel.app" alt="Trophies" />
-</p>
-
----
-
-### 🐍 Contribution Fun
-
-<p align="center">
-  <img src="https://githubusercontent.com" alt="Snake Animation" />
+  <img src="https://vercel.app" alt="Earned Profile Trophies" />
 </p>
 
 ---
@@ -73,13 +65,13 @@ I am a passionate **B.Sc Computer Science student** at Savitribai Phule Pune Uni
 
 <p align="left">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+    <img src="https://shields.io" alt="LinkedIn Connection" />
   </a>
   <a href="mailto:gauravdeore63286@gmail.com">
-    <img src="https://shields.io" alt="Email" />
+    <img src="https://shields.io" alt="Send Email" />
   </a>
   <a href="https://github.com">
-    <img src="https://shields.io" alt="GitHub" />
+    <img src="https://shields.io" alt="GitHub Profile Link" />
   </a>
 </p>
 
