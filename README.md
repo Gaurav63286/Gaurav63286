@@ -1,13 +1,12 @@
 <div align="center">
-
-# Hi 👋, I'm Gaurav Deore
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=🚀+Software+Developer;🐍+Python+Enthusiast;💻+Web+Developer;🔐+Cybersecurity+Learner;🤖+AI+%26+NLP+Explorer" />
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dydDB4Y3dwZTh4c2g3cmM4bDByc2x0aG53OG0ydDRpZm9mN2U3dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="400">
-
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0F2027,50:1F6FEB,100:A371F7&text=Gaurav%20Deore&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
 </div>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=🚀+Frontend+Developer+Intern;🤖+AI+%26+Machine+Learning+Enthusiast;⚡+Fast+Learner+%26+Problem+Solver;💻+Building+Projects+and+Learning+Every+Day" />
+
+</div>
 ---
 
 # 💫 About Me
@@ -72,7 +71,7 @@
 
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav63286&theme=github-light&hide_border=true&radius=16"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav63286&theme=light&hide_border=true&radius=16"/>
 </p>
 
 # 📚 Currently Learning
