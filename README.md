@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/🔐-Cybersecurity%20Learner-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🚀-Fast%20Learner-orange?style=for-the-badge"/>
 </p>
+<br>
+<br>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
@@ -20,9 +22,10 @@
 🔐 Interested in **Cybersecurity and Continuous Learning**
 
 🚀 Always eager to **learn, innovate, and create impactful solutions**
+<br>
+<br>
 
-
-<h1 align="center">⚒️ Tech Stack & Tools</h1>
+<h1>⚒️ Tech Stack & Tools</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=18A6FF&center=true&vCenter=true&width=700&lines=Technologies+I+Work+With;Always+Learning+New+Tools" />
@@ -60,6 +63,8 @@
 </td>
 </tr>
 </table>
+<br>
+<br>
 
 # 📊 GitHub Analytics
 
@@ -72,13 +77,16 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Gaurav63286&theme=tokyonight&hide_border=true&border_radius=12"/>
 </p>
-
+<br>
+<br>
 
 # 📈 Contribution Graph
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav63286&theme=light&hide_border=true&radius=16"/>
 </p>
+<br>
+<br>
 
 # 📚 Currently Learning
 <p align="center">
@@ -90,6 +98,8 @@
   <img src="https://img.shields.io/badge/🤖-Machine%20Learning%20%26%20NLP-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/⚡-Full--Stack-yellow?style=for-the-badge"/>
 </p>
+<br>
+<br>
 
 <!--  Connect With Me -->
 # 🌐 Connect With Me
