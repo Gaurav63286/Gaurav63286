@@ -81,17 +81,12 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <i>Watch the snake eat my GitHub contributions!</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Eating+My+GitHub+Contributions...;Building+Projects+Every+Day+🚀" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Gaurav63286/Gaurav63286/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+  <img width="100%" src="https://raw.githubusercontent.com/Gaurav63286/Gaurav63286/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:6A5ACD&height=3&section=footer"/>
-</p>
-
 ---
 
 # 📚 Currently Learning
