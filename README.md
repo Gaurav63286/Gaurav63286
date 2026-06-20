@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Software Developer | 🐍 Python Enthusiast | 🔐 Cybersecurity Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=B.Sc+Computer+Science+Student;Python+Developer;Data+Structures+%26+Algorithms+Enthusiast;Cybersecurity+Learner;Building+Production+Ready+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=B.Sc+Computer+Science+Student;" />
 </p>
 
 ---
@@ -12,25 +12,24 @@
 
 🎓 Pursuing **B.Sc Computer Science** at **Savitribai Phule Pune University (SPPU)**
 
-💻 Passionate about Software Development and Problem Solving
+💻 Passionate about Learning New Things and Problem Solving
 
-🐍 Strong foundation in **Python, Data Structures & Algorithms**
-
-🔐 Exploring **Cybersecurity** and Secure Software Development
+🔐 Exploring **AI/Technology/Cybersecurity** 
 
 🤖 Interested in **Artificial Intelligence & Natural Language Processing**
 
-🚀 Working towards becoming a skilled **Software Engineer**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
@@ -47,12 +46,12 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gaurav63286&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav63286&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav63286&theme=tokyonight"/>
 </p>
 
 ---
@@ -60,7 +59,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Gaurav63286&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
 </p>
 
 ---
@@ -68,7 +67,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav63286&theme=tokyo-night"/>
 </p>
 
 ---
@@ -76,7 +75,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Gaurav63286/Gaurav63286/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -85,10 +84,10 @@
 
 ```text
 🧠 Advanced Data Structures
-🐍 Python Backend Development
+💻 Passionate about Web Development  
 🔐 Cybersecurity Fundamentals
 🤖 NLP & Machine Learning
-☁️ Cloud Computing Basics
+⚡ Interested in Full-Stack Development and Problem Solving
 ```
 
 ---
@@ -112,7 +111,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0891b2&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Gaurav63286&label=Profile+Views&color=0891b2&style=for-the-badge" />
 </p>
 
 <h3 align="center">⚡ Code • Learn • Build • Repeat ⚡</h3>
