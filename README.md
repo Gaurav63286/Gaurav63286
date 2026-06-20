@@ -1,57 +1,65 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0F2027,50:1F6FEB,100:A371F7&text=Gaurav%20Deore&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=140&color=0:0D1117,50:30363D,100:6E7681&text=GAURAV%20DEORE&fontColor=ffffff&fontSize=50&fontAlignY=42&animation=twinkling"/>
 </div>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓-B.Sc%20Computer%20Science-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💻-Frontend%20Developer-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🤖-AI%20%26%20ML%20Enthusiast-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔐-Cybersecurity%20Learner-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚀-Fast%20Learner-orange?style=for-the-badge"/>
+</p>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=🚀+Frontend+Developer+Intern;🤖+AI+%26+Machine+Learning+Enthusiast;⚡+Fast+Learner+%26+Problem+Solver;💻+Building+Projects+and+Learning+Every+Day" />
-
-</div>
----
-
-# 💫 About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
 🎓 **B.Sc Computer Science Student** at **Savitribai Phule Pune University (SPPU)**
 
-💻 Passionate about **Learning New Technologies & Problem Solving**
+💻 Passionate about **Web Development, Problem Solving, and Building Projects**
 
-🔐 Exploring **Cybersecurity & Emerging Technologies**
+🤖 Exploring **Artificial Intelligence, Machine Learning, and Emerging Technologies**
 
-🤖 Interested in **Artificial Intelligence & Natural Language Processing**
+🔐 Interested in **Cybersecurity and Continuous Learning**
 
-🌱 Currently Learning **Web Development & Python Backend Development**
+🚀 Always eager to **learn, innovate, and create impactful solutions**
 
----
 
-# 🛠️ Tech Stack
+<h1 align="center">⚒️ Tech Stack & Tools</h1>
 
-## 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,python,c,cpp" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=18A6FF&center=true&vCenter=true&width=700&lines=Technologies+I+Work+With;Always+Learning+New+Tools" />
 </p>
 
----
 
-## 🌐 Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
----
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=java,php,python,c,cpp" />
 
-## 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+</td>
+<td align="center" width="50%">
 
----
+### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
-## 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+</td>
+</tr>
 
----
+<tr>
+<td align="center">
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</td>
+<td align="center">
+
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
+</td>
+</tr>
+</table>
 
 # 📊 GitHub Analytics
 
@@ -65,10 +73,8 @@
 <img src="https://streak-stats.demolab.com?user=Gaurav63286&theme=tokyonight&hide_border=true&border_radius=12"/>
 </p>
 
----
 
 # 📈 Contribution Graph
-
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav63286&theme=light&hide_border=true&radius=16"/>
@@ -85,7 +91,7 @@
   <img src="https://img.shields.io/badge/⚡-Full--Stack-yellow?style=for-the-badge"/>
 </p>
 
-
+<!--  Connect With Me -->
 # 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-deore-m63286">
@@ -106,5 +112,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Let's+Connect+%F0%9F%9A%80;Always+Open+to+Collaborate+%F0%9F%A4%9D;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat+%E2%9A%A1"/>
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:161B22,100:58A6FF&section=footer"/>
-</div>  
+<!-- Footer Section -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D1117,50:30363D,100:6E7681&text=©%202026%20Gaurav%20Deore%20•%20All%20Rights%20Reserved&fontColor=ffffff&fontSize=20&section=footer"/>
+</div> 
