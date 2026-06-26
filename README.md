@@ -94,9 +94,11 @@
   <img src="https://img.shields.io/badge/💻-Web%20Development-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🐍-Python%20Backend-green?style=for-the-badge"/>
   <br><br>
+    <img src="https://img.shields.io/badge/🤖-AI%2FML-00C853?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🔐-Cybersecurity-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🤖-Machine%20Learning%20%26%20NLP-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/⚡-Full--Stack-yellow?style=for-the-badge"/>
+
 </p>
 <br>
 <br>
