@@ -122,6 +122,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Let's+Connect+%F0%9F%9A%80;Always+Open+to+Collaborate+%F0%9F%A4%9D;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat+%E2%9A%A1"/>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gaurav63286&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 <!-- Footer Section -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D1117,50:30363D,100:6E7681&text=©%202026%20Gaurav%20Deore%20•%20All%20Rights%20Reserved&fontColor=ffffff&fontSize=20&section=footer"/>
